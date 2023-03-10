@@ -4,7 +4,7 @@ Request physical information of your Windows computer with powershell
 You can use the script to request few information of your computer with powershell
 
 Information :
-
+ 
 **Retrieving memory status :**
 `Write-Host $memoryStatus`
 
